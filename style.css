@@ -1,0 +1,34 @@
+html {
+  font-family: "Noto Sans Display", sans-serif;
+  font-family: "Playfair Display", serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+body {
+  background-color: linen;
+}
+header {
+  text-align: center;
+  border: 20px dotted black;
+  margin-top: 0px;
+  margin-bottom: 70px;
+  margin-right: 0px;
+  margin-left: 0px;
+
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+.profile {
+  font-size: 15px;
+  text-align: left;
+  margin-top: -40px;
+}
+
+.experience {
+  font-size: 15px;
+  text-align: left;
+}
+
+ul {
+  list-style-type: circle;
+}
